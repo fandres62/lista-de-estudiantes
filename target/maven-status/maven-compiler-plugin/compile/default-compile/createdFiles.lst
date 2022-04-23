@@ -1,0 +1,6 @@
+com\app\crud\estudianteapp\repositorio\EstudianteRepositorio.class
+com\app\crud\estudianteapp\servicio\EstudianteServicio.class
+com\app\crud\estudianteapp\EstudianteappApplication.class
+com\app\crud\estudianteapp\servicio\EstudianteSericioImpl.class
+com\app\crud\estudianteapp\controlador\EstudianteControlador.class
+com\app\crud\estudianteapp\entidad\Estudiante.class
